@@ -16,6 +16,7 @@ function draw() {
   fill("purple")
   noStroke()
   circle(windowWidth/2,windowHeight/2,400)
- 
+  fill("orange")
+ rect(windowWidth/2, windowHeight/2, 200)
 
 }
